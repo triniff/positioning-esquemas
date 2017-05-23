@@ -1,1 +1,5 @@
 /* Inserta tu CSS aqui */
+body {
+	margin: 0;
+	padding: 0;
+}
